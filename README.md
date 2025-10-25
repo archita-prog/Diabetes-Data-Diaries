@@ -26,7 +26,7 @@ The dataset is available on kaggle. It includes features like:
 
  Machine Learning Models
  1. K-Nearest Neighbors (KNN) for Classification
-- Used to classify diabetes progression based on given features.
+- Used to classify diabetes progression based on given features in the dataset.
 - Evaluated using metrics like accuracy, precision, recall, and F1-score.
 
 2. Linear Regression for Prediction
